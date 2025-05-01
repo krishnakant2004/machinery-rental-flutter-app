@@ -1,16 +1,29 @@
-# my_app
+# Machinery Rental App
 
-A new Flutter project.
+The Machinery Rental App is a Flutter-based application designed to facilitate the rental of agricultural machinery. It provides a platform for farmers and machinery owners to connect, enabling efficient and seamless machinery rentals.
+
+## Features
+
+- **Browse Machinery**: View a list of available machinery for rent.
+- **Search and Filter**: Search for machinery based on type, location, and availability.
+- **Booking System**: Rent machinery directly through the app.
+- **User Profiles**: Manage profiles for both renters and owners.
+- **Notifications**: Receive updates on bookings and availability.
+
+## Project Structure
+
+The project follows the standard Flutter project structure:
+
+- **`lib/`**: Contains the main application code.
+- **`assets/`**: Stores images, icons, and other static resources.
+- **`web/`**: Contains web-specific files, including `index.html`.
+- **`test/`**: Includes unit and widget tests for the app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**:
+   ```sh
+   git clone <repository-url>
+   cd machinery_rental_app
